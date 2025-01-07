@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'CustomFont';
-    src: url('fonts/custom.ttf') format('truetype');
+    src: url('custom.ttf') format('truetype');
 }
 
 body, button, .choice, .menu button, .modal-content button {
